@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\MefPrototipo\\WMS\\web.MefPrototipos\\web.MefPrototipos.csproj": {}
+    "C:\\Users\\Usuario\\Source\\Repos\\web.MefPrototypo\\web.MefPrototipos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\MefPrototipo\\WMS\\web.MefPrototipos\\web.MefPrototipos.csproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\web.MefPrototypo\\web.MefPrototipos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\MefPrototipo\\WMS\\web.MefPrototipos\\web.MefPrototipos.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\web.MefPrototypo\\web.MefPrototipos.csproj",
         "projectName": "web.MefPrototipos",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\MefPrototipo\\WMS\\web.MefPrototipos\\web.MefPrototipos.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\web.MefPrototypo\\web.MefPrototipos.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\MefPrototipo\\WMS\\web.MefPrototipos\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\web.MefPrototypo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",

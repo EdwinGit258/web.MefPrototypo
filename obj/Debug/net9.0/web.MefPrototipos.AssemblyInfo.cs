@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("web.MefPrototipos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+466d76636272467d528f7609da922c70bd98d13f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89a8f9f41c8e17ecca2c8ebc075a6d5f944e15c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("web.MefPrototipos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("web.MefPrototipos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
